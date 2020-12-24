@@ -1,0 +1,15 @@
+#Click-me{
+    height: 120px;
+    width: 120px;
+    font-family: fantasy;
+    text-align: center;
+    margin: 25%;
+}
+body{
+    text-align: center;
+}
+#textofmine{
+    color: red;
+    font-size: 3rem;
+    display: none;
+}
